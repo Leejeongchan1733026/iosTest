@@ -48,5 +48,6 @@ class ViewController: UIViewController {
            그리고 그 문자열을 IbICurrentTime에 입력 */
         IbICurrentTime.text = "현재시간: " + formatter.string(from: date as Date)
     }
+    
 }
 
