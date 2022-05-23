@@ -7,9 +7,9 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class DateViewController: UIViewController {
     //타이머가 구동되면 실행할 함수
-    let timeSelector: Selector = #selector(ViewController.updateTime)
+    let timeSelector: Selector = #selector(DateViewController.updateTime)
     let interval = 1.0      //타이머 간격 1초
     var count = 0       //타이머가 설정한 간격대로 실행되는지 확인하는 변수
 

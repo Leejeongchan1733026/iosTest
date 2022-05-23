@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ImageViewController: UIViewController {
     var isZoom = false
     var imgOn: UIImage?
     var imgOff: UIImage?
@@ -19,8 +19,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         
-        imgOn = UIImage(named: "Image1.jpeg")
-        imgOff = UIImage(named: "Image2.png")
+        imgOn = UIImage(named: "lamp-On.jpeg")
+        imgOff = UIImage(named: "lamp-Off.jpeg")
         
         imgView.image = imgOn
     }
