@@ -22,15 +22,16 @@ class ViewController: UIViewController {
         }
     
     @IBAction func btnPlayExternalMovie(_ sender: UIButton) {
-        let url = NSURL(string: "http://video.mrporter.com/videos/productPage/173037_detail.mp4")!
+        let url = NSURL(string: "http://video.mrporter.com/videos/productPage/173037_detail.mp4")! //외부 링크 경로 저장
             playVideo(url: url)
         }
     
     private func playVideo(url: NSURL){
-        let playerController = AVPlayerViewController()
-        let player = AVPlayer(url: url as URL)
-        playerController.player = player
+        let playerController = AVPlayerViewController() // 인스턴스 생성
+        let player = AVPlayer(url: url as URL) // URL로 초기화된 인스턴스 생성
+        playerController.player = player // 인스턴스 할당
         
+        //비디오 실행
         self.present(playerController, animated: true) {
             player.play()
         }
