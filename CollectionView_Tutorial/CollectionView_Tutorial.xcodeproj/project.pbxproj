@@ -15,6 +15,7 @@
 		FB54435C28628FEA005C5920 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB54435A28628FEA005C5920 /* LaunchScreen.storyboard */; };
 		FB544367286293B2005C5920 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB544365286293B2005C5920 /* MyCollectionViewCell.swift */; };
 		FB544368286293B2005C5920 /* MyCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FB544366286293B2005C5920 /* MyCollectionViewCell.xib */; };
+		FBBFCB162870396900A608B2 /* MovieCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBFCB152870396900A608B2 /* MovieCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		FB54435D28628FEA005C5920 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB544365286293B2005C5920 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 		FB544366286293B2005C5920 /* MyCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyCollectionViewCell.xib; sourceTree = "<group>"; };
+		FBBFCB152870396900A608B2 /* MovieCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				FB54435D28628FEA005C5920 /* Info.plist */,
 				FB544365286293B2005C5920 /* MyCollectionViewCell.swift */,
 				FB544366286293B2005C5920 /* MyCollectionViewCell.xib */,
+				FBBFCB152870396900A608B2 /* MovieCollectionViewCell.swift */,
 			);
 			path = CollectionView_Tutorial;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			files = (
 				FB54435428628FE9005C5920 /* ViewController.swift in Sources */,
 				FB54435028628FE9005C5920 /* AppDelegate.swift in Sources */,
+				FBBFCB162870396900A608B2 /* MovieCollectionViewCell.swift in Sources */,
 				FB544367286293B2005C5920 /* MyCollectionViewCell.swift in Sources */,
 				FB54435228628FE9005C5920 /* SceneDelegate.swift in Sources */,
 			);
