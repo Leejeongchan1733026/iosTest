@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  CollectionView_Tutorial
+//  Button Click Action CollectionView
 //
-//  Created by 이정찬 on 2022/06/22.
+//  Created by 이정찬 on 2022/07/03.
 //
 
 import UIKit

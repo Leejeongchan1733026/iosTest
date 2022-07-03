@@ -7,33 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FB54435028628FE9005C5920 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB54434F28628FE9005C5920 /* AppDelegate.swift */; };
-		FB54435228628FE9005C5920 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB54435128628FE9005C5920 /* SceneDelegate.swift */; };
-		FB54435428628FE9005C5920 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB54435328628FE9005C5920 /* ViewController.swift */; };
-		FB54435728628FE9005C5920 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB54435528628FE9005C5920 /* Main.storyboard */; };
-		FB54435928628FEA005C5920 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB54435828628FEA005C5920 /* Assets.xcassets */; };
-		FB54435C28628FEA005C5920 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB54435A28628FEA005C5920 /* LaunchScreen.storyboard */; };
-		FB544367286293B2005C5920 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB544365286293B2005C5920 /* MyCollectionViewCell.swift */; };
-		FB544368286293B2005C5920 /* MyCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = FB544366286293B2005C5920 /* MyCollectionViewCell.xib */; };
-		FBBFCB162870396900A608B2 /* MovieCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBFCB152870396900A608B2 /* MovieCollectionViewCell.swift */; };
+		FBBFCB242871716200A608B2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBFCB232871716200A608B2 /* AppDelegate.swift */; };
+		FBBFCB262871716200A608B2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBFCB252871716200A608B2 /* SceneDelegate.swift */; };
+		FBBFCB282871716200A608B2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBFCB272871716200A608B2 /* ViewController.swift */; };
+		FBBFCB2B2871716200A608B2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBBFCB292871716200A608B2 /* Main.storyboard */; };
+		FBBFCB2D2871716300A608B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBBFCB2C2871716300A608B2 /* Assets.xcassets */; };
+		FBBFCB302871716300A608B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBBFCB2E2871716300A608B2 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		FB54434C28628FE9005C5920 /* CollectionView_Tutorial.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CollectionView_Tutorial.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		FB54434F28628FE9005C5920 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FB54435128628FE9005C5920 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		FB54435328628FE9005C5920 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FB54435628628FE9005C5920 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FB54435828628FEA005C5920 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FB54435B28628FEA005C5920 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		FB54435D28628FEA005C5920 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FB544365286293B2005C5920 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
-		FB544366286293B2005C5920 /* MyCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyCollectionViewCell.xib; sourceTree = "<group>"; };
-		FBBFCB152870396900A608B2 /* MovieCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewCell.swift; sourceTree = "<group>"; };
+		FBBFCB202871716200A608B2 /* Button Click Action CollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Button Click Action CollectionView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FBBFCB232871716200A608B2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FBBFCB252871716200A608B2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		FBBFCB272871716200A608B2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FBBFCB2A2871716200A608B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FBBFCB2C2871716300A608B2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FBBFCB2F2871716300A608B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FBBFCB312871716300A608B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FB54434928628FE9005C5920 /* Frameworks */ = {
+		FBBFCB1D2871716200A608B2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -43,75 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FB54434328628FE9005C5920 = {
+		FBBFCB172871716200A608B2 = {
 			isa = PBXGroup;
 			children = (
-				FB54434E28628FE9005C5920 /* CollectionView_Tutorial */,
-				FB54434D28628FE9005C5920 /* Products */,
+				FBBFCB222871716200A608B2 /* Button Click Action CollectionView */,
+				FBBFCB212871716200A608B2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FB54434D28628FE9005C5920 /* Products */ = {
+		FBBFCB212871716200A608B2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FB54434C28628FE9005C5920 /* CollectionView_Tutorial.app */,
+				FBBFCB202871716200A608B2 /* Button Click Action CollectionView.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FB54434E28628FE9005C5920 /* CollectionView_Tutorial */ = {
+		FBBFCB222871716200A608B2 /* Button Click Action CollectionView */ = {
 			isa = PBXGroup;
 			children = (
-				FB54434F28628FE9005C5920 /* AppDelegate.swift */,
-				FB54435128628FE9005C5920 /* SceneDelegate.swift */,
-				FB54435328628FE9005C5920 /* ViewController.swift */,
-				FB54435528628FE9005C5920 /* Main.storyboard */,
-				FB54435828628FEA005C5920 /* Assets.xcassets */,
-				FB54435A28628FEA005C5920 /* LaunchScreen.storyboard */,
-				FB54435D28628FEA005C5920 /* Info.plist */,
-				FB544365286293B2005C5920 /* MyCollectionViewCell.swift */,
-				FB544366286293B2005C5920 /* MyCollectionViewCell.xib */,
-				FBBFCB152870396900A608B2 /* MovieCollectionViewCell.swift */,
+				FBBFCB232871716200A608B2 /* AppDelegate.swift */,
+				FBBFCB252871716200A608B2 /* SceneDelegate.swift */,
+				FBBFCB272871716200A608B2 /* ViewController.swift */,
+				FBBFCB292871716200A608B2 /* Main.storyboard */,
+				FBBFCB2C2871716300A608B2 /* Assets.xcassets */,
+				FBBFCB2E2871716300A608B2 /* LaunchScreen.storyboard */,
+				FBBFCB312871716300A608B2 /* Info.plist */,
 			);
-			path = CollectionView_Tutorial;
+			path = "Button Click Action CollectionView";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FB54434B28628FE9005C5920 /* CollectionView_Tutorial */ = {
+		FBBFCB1F2871716200A608B2 /* Button Click Action CollectionView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FB54436028628FEA005C5920 /* Build configuration list for PBXNativeTarget "CollectionView_Tutorial" */;
+			buildConfigurationList = FBBFCB342871716300A608B2 /* Build configuration list for PBXNativeTarget "Button Click Action CollectionView" */;
 			buildPhases = (
-				FB54434828628FE9005C5920 /* Sources */,
-				FB54434928628FE9005C5920 /* Frameworks */,
-				FB54434A28628FE9005C5920 /* Resources */,
+				FBBFCB1C2871716200A608B2 /* Sources */,
+				FBBFCB1D2871716200A608B2 /* Frameworks */,
+				FBBFCB1E2871716200A608B2 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = CollectionView_Tutorial;
-			productName = CollectionView_Tutorial;
-			productReference = FB54434C28628FE9005C5920 /* CollectionView_Tutorial.app */;
+			name = "Button Click Action CollectionView";
+			productName = "Button Click Action CollectionView";
+			productReference = FBBFCB202871716200A608B2 /* Button Click Action CollectionView.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FB54434428628FE9005C5920 /* Project object */ = {
+		FBBFCB182871716200A608B2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					FB54434B28628FE9005C5920 = {
+					FBBFCB1F2871716200A608B2 = {
 						CreatedOnToolsVersion = 13.4;
 					};
 				};
 			};
-			buildConfigurationList = FB54434728628FE9005C5920 /* Build configuration list for PBXProject "CollectionView_Tutorial" */;
+			buildConfigurationList = FBBFCB1B2871716200A608B2 /* Build configuration list for PBXProject "Button Click Action CollectionView" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -119,58 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = FB54434328628FE9005C5920;
-			productRefGroup = FB54434D28628FE9005C5920 /* Products */;
+			mainGroup = FBBFCB172871716200A608B2;
+			productRefGroup = FBBFCB212871716200A608B2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FB54434B28628FE9005C5920 /* CollectionView_Tutorial */,
+				FBBFCB1F2871716200A608B2 /* Button Click Action CollectionView */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FB54434A28628FE9005C5920 /* Resources */ = {
+		FBBFCB1E2871716200A608B2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB54435C28628FEA005C5920 /* LaunchScreen.storyboard in Resources */,
-				FB54435928628FEA005C5920 /* Assets.xcassets in Resources */,
-				FB544368286293B2005C5920 /* MyCollectionViewCell.xib in Resources */,
-				FB54435728628FE9005C5920 /* Main.storyboard in Resources */,
+				FBBFCB302871716300A608B2 /* LaunchScreen.storyboard in Resources */,
+				FBBFCB2D2871716300A608B2 /* Assets.xcassets in Resources */,
+				FBBFCB2B2871716200A608B2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FB54434828628FE9005C5920 /* Sources */ = {
+		FBBFCB1C2871716200A608B2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FB54435428628FE9005C5920 /* ViewController.swift in Sources */,
-				FB54435028628FE9005C5920 /* AppDelegate.swift in Sources */,
-				FBBFCB162870396900A608B2 /* MovieCollectionViewCell.swift in Sources */,
-				FB544367286293B2005C5920 /* MyCollectionViewCell.swift in Sources */,
-				FB54435228628FE9005C5920 /* SceneDelegate.swift in Sources */,
+				FBBFCB282871716200A608B2 /* ViewController.swift in Sources */,
+				FBBFCB242871716200A608B2 /* AppDelegate.swift in Sources */,
+				FBBFCB262871716200A608B2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		FB54435528628FE9005C5920 /* Main.storyboard */ = {
+		FBBFCB292871716200A608B2 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FB54435628628FE9005C5920 /* Base */,
+				FBBFCB2A2871716200A608B2 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		FB54435A28628FEA005C5920 /* LaunchScreen.storyboard */ = {
+		FBBFCB2E2871716300A608B2 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				FB54435B28628FEA005C5920 /* Base */,
+				FBBFCB2F2871716300A608B2 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -178,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		FB54435E28628FEA005C5920 /* Debug */ = {
+		FBBFCB322871716300A608B2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -238,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		FB54435F28628FEA005C5920 /* Release */ = {
+		FBBFCB332871716300A608B2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -292,7 +280,7 @@
 			};
 			name = Release;
 		};
-		FB54436128628FEA005C5920 /* Debug */ = {
+		FBBFCB352871716300A608B2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -301,7 +289,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = AD65V3RAF6;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = CollectionView_Tutorial/Info.plist;
+				INFOPLIST_FILE = "Button Click Action CollectionView/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -312,7 +300,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.CollectionView-Tutorial";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Button-Click-Action-CollectionView";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -320,7 +308,7 @@
 			};
 			name = Debug;
 		};
-		FB54436228628FEA005C5920 /* Release */ = {
+		FBBFCB362871716300A608B2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -329,7 +317,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = AD65V3RAF6;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = CollectionView_Tutorial/Info.plist;
+				INFOPLIST_FILE = "Button Click Action CollectionView/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -340,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.CollectionView-Tutorial";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Button-Click-Action-CollectionView";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -351,25 +339,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FB54434728628FE9005C5920 /* Build configuration list for PBXProject "CollectionView_Tutorial" */ = {
+		FBBFCB1B2871716200A608B2 /* Build configuration list for PBXProject "Button Click Action CollectionView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FB54435E28628FEA005C5920 /* Debug */,
-				FB54435F28628FEA005C5920 /* Release */,
+				FBBFCB322871716300A608B2 /* Debug */,
+				FBBFCB332871716300A608B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FB54436028628FEA005C5920 /* Build configuration list for PBXNativeTarget "CollectionView_Tutorial" */ = {
+		FBBFCB342871716300A608B2 /* Build configuration list for PBXNativeTarget "Button Click Action CollectionView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FB54436128628FEA005C5920 /* Debug */,
-				FB54436228628FEA005C5920 /* Release */,
+				FBBFCB352871716300A608B2 /* Debug */,
+				FBBFCB362871716300A608B2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = FB54434428628FE9005C5920 /* Project object */;
+	rootObject = FBBFCB182871716200A608B2 /* Project object */;
 }
