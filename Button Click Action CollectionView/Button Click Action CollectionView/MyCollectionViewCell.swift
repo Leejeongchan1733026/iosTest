@@ -9,8 +9,5 @@ import UIKit
 
 class MyCollectionViewCell: UICollectionViewCell {
     
-    let iamge: String?
-    let image2: String?
-    
     @IBOutlet var myImageView: UIImageView!
 }
