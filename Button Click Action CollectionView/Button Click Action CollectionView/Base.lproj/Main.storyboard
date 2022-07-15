@@ -70,7 +70,9 @@
                                         </collectionViewCellContentView>
                                         <size key="customSize" width="180" height="200"/>
                                         <connections>
+                                            <outlet property="itemLabel" destination="VvY-1C-i0J" id="Ebq-37-6Jz"/>
                                             <outlet property="myImageView" destination="u12-oa-IHs" id="vAa-qS-8VY"/>
+                                            <outlet property="viewDetailButton" destination="Xub-1N-Z8C" id="pGO-ve-D5W"/>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>

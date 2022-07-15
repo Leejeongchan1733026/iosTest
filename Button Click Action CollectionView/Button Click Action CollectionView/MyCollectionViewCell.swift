@@ -10,4 +10,6 @@ import UIKit
 class MyCollectionViewCell: UICollectionViewCell {
     
     @IBOutlet var myImageView: UIImageView!
+    @IBOutlet var itemLabel: UILabel!
+    @IBOutlet var viewDetailButton: UIButton!
 }
