@@ -14,6 +14,7 @@
 		FBBFCB2D2871716300A608B2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FBBFCB2C2871716300A608B2 /* Assets.xcassets */; };
 		FBBFCB302871716300A608B2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FBBFCB2E2871716300A608B2 /* LaunchScreen.storyboard */; };
 		FBBFCB382874339900A608B2 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBFCB372874339900A608B2 /* MyCollectionViewCell.swift */; };
+		FBBFCB3A2882DA3600A608B2 /* productList.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBBFCB392882DA3600A608B2 /* productList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		FBBFCB2F2871716300A608B2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FBBFCB312871716300A608B2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FBBFCB372874339900A608B2 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
+		FBBFCB392882DA3600A608B2 /* productList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = productList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				FBBFCB2E2871716300A608B2 /* LaunchScreen.storyboard */,
 				FBBFCB312871716300A608B2 /* Info.plist */,
 				FBBFCB372874339900A608B2 /* MyCollectionViewCell.swift */,
+				FBBFCB392882DA3600A608B2 /* productList.swift */,
 			);
 			path = "Button Click Action CollectionView";
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FBBFCB282871716200A608B2 /* ViewController.swift in Sources */,
+				FBBFCB3A2882DA3600A608B2 /* productList.swift in Sources */,
 				FBBFCB242871716200A608B2 /* AppDelegate.swift in Sources */,
 				FBBFCB382874339900A608B2 /* MyCollectionViewCell.swift in Sources */,
 				FBBFCB262871716200A608B2 /* SceneDelegate.swift in Sources */,
