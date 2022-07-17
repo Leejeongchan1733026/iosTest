@@ -13,7 +13,8 @@ class ViewController: UIViewController {
     var itemList = [productList]()
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        let item1:productList=productList(productImage: UIImage(named: "Burger")!, porductName: "Creamy Macroni")
+        itemList.append(item1)
     }
 
 
