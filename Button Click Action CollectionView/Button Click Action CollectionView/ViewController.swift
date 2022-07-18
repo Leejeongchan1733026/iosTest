@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         let item1:productList=productList(productImage: UIImage(named: "Burger")!, porductName: "Creamy Macroni")
         itemList.append(item1)
+        let item2:productList=productList(productImage: UIImage(named: "Burger")!, porductName: "Creamy Macroni")
+        itemList.append(item2)
     }
 
 
